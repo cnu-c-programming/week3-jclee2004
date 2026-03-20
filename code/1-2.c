@@ -13,7 +13,7 @@ int main() {
 }
 
 void print() {
-    printf("Welcome to Computer Promgramming 03 : Lab!\n");
+    printf("Welcome to Computer Programming 03 Lab!\n");
 
 }
 
